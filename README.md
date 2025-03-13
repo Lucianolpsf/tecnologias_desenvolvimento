@@ -14,12 +14,12 @@ Clique em um dos links ou em um dos icones para ser direcionado a tecnologia que
 [portugol](markdown/portugol.md)  
 [python](markdown/python.md)  
 
-[![cmd](./imagens/icons8-cmd-50.png)](./markdown/cmd.md)
-[![cmd](./imagens/icons8-css-50.png)](./markdown/css.md)
-[![git](./imagens/icons8-git-50.png)](./markdown/git.md)
-[![html](./imagens/icons8-html5-50.png)](./markdown/html.md)
-[![markdown](./imagens/icons8-redução-de-preço-50.png)](./markdown/markdown.md)
-[![portugol](./imagens/logo-portugol-black.png)](markdown/portugol.md)
-[![python](./imagens/icons8-python-50%20(1).png)](markdown/python.md)
+[![cmd](./imagens/icons/icons8-cmd-50.png)](./markdown/cmd.md)
+[![cmd](./imagens/icons/icons8-css-50.png)](./markdown/css.md)
+[![git](./imagens/icons/icons8-git-50.png)](./markdown/git.md)
+[![html](./imagens/icons/icons8-html5-50.png)](./markdown/html.md)
+[![markdown](./imagens/icons/icons8-redução-de-preço-50.png)](./markdown/markdown.md)
+[![portugol](./imagens/icons/logo-portugol-black.png)](markdown/portugol.md)
+[![python](./imagens/icons/icons8-python-50.png)](markdown/python.md)
 
 </div>

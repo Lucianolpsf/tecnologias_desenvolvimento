@@ -34,19 +34,19 @@ h2{
 }
 
 #sec-1{
-    background-image: url(../../imagens/luxo.png);
+    background-image: url(./img/luxo.png);
 }
 
 #sec-3{
-    background-image: url(../../imagens/tarde.png);
+    background-image: url(./img/tarde.png);
 }
 
 #sec-5{
-    background-image: url(../../imagens/fusca.png);
+    background-image: url(./img/fusca.png);
 }
 
 #sec-7{
-    background-image: url(../../imagens/prata.png);
+    background-image: url(./img/prata.png);
 }
 
 #sec-2 ,#sec-4 ,#sec-6 {

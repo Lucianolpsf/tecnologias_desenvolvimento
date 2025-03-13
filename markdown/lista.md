@@ -151,6 +151,6 @@ frutas.clear()
 
 <div style="text-align: right">
 
-[![voltar](../imagens/icons8-voltar-50.png)](./python.md)
+[![voltar](../imagens/icons/icons8-voltar-50.png)](./python.md)
 
 </div>

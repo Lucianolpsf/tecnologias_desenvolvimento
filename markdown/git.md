@@ -67,6 +67,6 @@ Para iniciar, clique com o botão direito do mouse na pasta\repositório do proj
 
 <div style="text-align: right">
 
-[![voltar](../imagens/icons8-voltar-50.png)](../README.md)
+[![voltar](../imagens/icons/icons8-voltar-50.png)](../README.md)
 
 </div>
